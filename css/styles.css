@@ -1,0 +1,16 @@
+#header {
+  text-align: center;
+}
+
+h1, h3 {
+  color: #C23626;
+}
+
+img {
+  height: 250px;
+  width: auto;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
