@@ -13,4 +13,18 @@ img {
 
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 20px 50px;
+  background-color: #F5E4E2;
+}
+
+ul {
+  margin: 5px 0px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 40px;
 }
